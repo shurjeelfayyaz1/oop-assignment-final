@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+
+}
+
+.grid{
+    
+    width: 600px;
+    height:700px;
+    margin: auto;
+    background-color:grey;
+    padding: 10px 50px 50px 50px;
+
+
+}
+
+.grid h1{
+    background-color: #57636e;
+    font-size:60px;
+    text-align: center;
+    color: #fff;
+    padding:2px 0px;
+    border-radius: 50px;
+}
+
+.grid #question{
+    font-size: 30px;
+    color:#fdfdfd;
+
+}
+
+.buttons{
+    margin-top:30px;
+
+}
+
+#btn0,#btn1,#btn2,#btn3{
+    background-color: #778897;
+    width: 250px;
+    width: 100%;
+    font-size: 20px;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 50px;
+    margin: 10px 40px 10px 0px;
+    padding: 10px 10px;
+
+}
+
+#progress{
+    margin-top:200px;
+    color:#fffefe;
+    font-size: 18px;
+}
